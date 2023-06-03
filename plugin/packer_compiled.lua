@@ -79,6 +79,16 @@ _G.packer_plugins = {
     path = "/home/aden/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/theprimeagen/harpoon"
   },
+  ["lsp-zero.nvim"] = {
+    loaded = true,
+    path = "/home/aden/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
+    url = "https://github.com/VonHeikemen/lsp-zero.nvim"
+  },
+  ["nvim-cmp"] = {
+    loaded = true,
+    path = "/home/aden/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+    url = "https://github.com/hrsh7th/nvim-cmp"
+  },
   ["nvim-treesitter"] = {
     loaded = true,
     path = "/home/aden/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
@@ -114,6 +124,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/aden/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
+  },
+  ["vim-fugitive"] = {
+    loaded = true,
+    path = "/home/aden/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+    url = "https://github.com/tpope/vim-fugitive"
   }
 }
 
