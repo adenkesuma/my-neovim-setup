@@ -1,3 +1,2 @@
-require('core.plugins')
-require('core.keymaps')
-require('core.plugin_config')
+print('hello')
+require('theprimeagen')
